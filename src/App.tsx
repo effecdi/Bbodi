@@ -317,7 +317,7 @@ export default function Component() {
             transition={{ duration: 0.8 }}
           >
             <motion.h1 
-              className="text-4xl md:text-6xl lg:text-7xl mb-8 leading-[1.5]"
+              className="text-4xl md:text-6xl leading-[1.5] lg:text-7xl mb-8 "
               style={{ fontWeight: 700 }}
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
