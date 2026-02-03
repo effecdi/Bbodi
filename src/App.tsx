@@ -323,8 +323,8 @@ export default function Component() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2, duration: 0.8 }}
             >
-              기획의 논리와 퍼블리싱의 정밀함 사이,<br />
-              그 간극을 메우는<br />
+              기획의 논리와 퍼블리싱의 <br />
+              정밀함 사이를 메우는<br />
               <span className="bg-gradient-to-r from-lime-400 to-lime-600 bg-clip-text text-transparent">
                 전략적 디자이너
               </span>{' '}
@@ -732,11 +732,11 @@ export default function Component() {
               whileHover={{ scale: 1.05 }}
             >
               <Mail className="w-6 h-6" />
-              contact@Bbodi.com
+              bbodi.design@gmail.com
             </motion.a>
             
             <div className="pt-12 border-t border-white/5 text-[#CCCCCC] text-sm">
-              © 2026 Bbodi (Lee Hyeon-jeong). All rights reserved.
+              © 2026 Bbodi. All rights reserved.
             </div>
           </motion.div>
         </div>
