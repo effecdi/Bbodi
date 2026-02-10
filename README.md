@@ -20,12 +20,32 @@
 ## 🛠 Tech Stack (사용 기술)
 디자이너의 의도를 100% 구현하고, 유지보수가 용이한 코드를 작성하기 위해 다음 기술을 사용했습니다.
 
-| Category | Stacks |
+## 🛠 Tech Stack & Tools
+디자인 시스템의 일관성을 유지하고, 고성능의 인터랙티브 웹을 구현하기 위해 최신 모던 웹 스택을 적용했습니다.
+
+| Category | Technology |
 | :--- | :--- |
-| **Design** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> |
-| **Publishing** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> |
-| **Script** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> |
-| **Collab** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> |
+| **Design** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> |
+| **Styling** | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/> |
+| **Build & Route** | <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Wouter-FF0000?style=flat-square&logo=npm&logoColor=white"/> |
+| **Backend** | <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> |
+
+<br/>
+
+## ✨ Key Features (구현 핵심 포인트)
+단순한 화면 구현을 넘어, 사용자 경험(UX)과 개발 효율성을 모두 고려했습니다.
+
+### 1. Modern Frontend Architecture
+* **React 18 + TypeScript**: 컴포넌트 기반의 재사용 가능한 UI 구조를 설계하고, 정적 타입 검사를 통해 런타임 오류를 최소화하여 안정성을 높였습니다.
+* **Vite**: 기존 Webpack 대비 빠른 빌드 속도와 HMR(Hot Module Replacement)을 통해 개발 생산성을 극대화했습니다.
+
+### 2. Advanced UI/UX Implementation
+* **Tailwind CSS**: Utility-First 방식을 사용하여 디자인 시스템(Color, Typography 등)을 일관성 있게 코드에 적용했습니다.
+* **Framer Motion**: 단순한 CSS 트랜지션을 넘어, 스크롤 인터랙션 및 복잡한 제스처 애니메이션을 부드럽게 구현하여 사용자 몰입감을 높였습니다.
+
+### 3. Lightweight Routing & Performance
+* **Wouter**: 무거운 React Router 대신 경량화된 라우팅 라이브러리를 선택하여 번들 사이즈를 줄이고 페이지 전환 속도를 최적화했습니다.
 
 <br/>
 
