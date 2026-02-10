@@ -1,4 +1,4 @@
-Markdown# 🎨 Bbodi Portfolio (뽀디 포트폴리오)
+🎨 Bbodi Portfolio (뽀디 포트폴리오)
 
 > **"Design Meets Technology"**
 >
