@@ -35,7 +35,79 @@
 ## 📂 Directory Structure
 유지보수성과 확장성을 고려하여 **관심사 분리(Separation of Concerns)** 원칙에 따라 폴더 구조를 설계했습니다.
 
+# 🎨 Bbodi Portfolio (뽀디 포트폴리오)
 
+> **"Design Meets Technology"**
+> 
+> 안녕하세요, **9년 차 프리랜서 UI/UX 디자이너 겸 퍼블리셔 이현정**입니다.  
+> 본 프로젝트는 심미적인 디자인과 최신 웹 기술을 결합하여 제작한 개인 포트폴리오 웹사이트입니다.
+
+<br/>
+
+## 📌 Project Overview
+이 포트폴리오는 단순한 작업물의 나열이 아닌, **디자이너로서의 감각**과 **프론트엔드 개발자로서의 기술력**을 동시에 보여주기 위해 제작되었습니다.
+
+* **기획 및 디자인**: Figma를 활용한 UI/UX 설계 및 프로토타이핑
+* **개발**: React 18 & TypeScript 기반의 컴포넌트 주도 개발 (CDD)
+* **주요 특징**: Framer Motion을 활용한 인터랙티브 모션, Tailwind CSS를 통한 디자인 시스템 구축
+
+<br/>
+
+## 🛠 Tech Stack & Tools
+최적의 사용자 경험(UX)과 개발 효율성을 위해 모던 웹 기술 스택을 선정했습니다.
+
+| Category | Technology | Description |
+| :--- | :--- | :--- |
+| **Frontend** | <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> | 컴포넌트 재사용성 및 타입 안정성 확보 |
+| **Styling** | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> | Utility-First 방식의 디자인 시스템 적용 |
+| **Animation** | <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/> | 자연스러운 스크롤 및 제스처 애니메이션 구현 |
+| **Build** | <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> | HMR을 통한 빠른 개발 환경 구축 |
+| **Routing** | <img src="https://img.shields.io/badge/Wouter-FF0000?style=flat-square&logo=npm&logoColor=white"/> | 번들 사이즈 최소화를 위한 경량 라우터 사용 |
+| **Backend** | <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> | API 서버 및 데이터 처리 |
+| **Design** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> | UI/UX 디자인 및 프로토타입 |
+
+<br/>
+
+## 📂 Directory Structure
+유지보수성과 확장성을 고려하여 **관심사 분리(Separation of Concerns)** 원칙에 따라 폴더 구조를 설계했습니다.
+
+# 🎨 Bbodi Portfolio (뽀디 포트폴리오)
+
+> **"Design Meets Technology"**
+> 
+> 안녕하세요, **9년 차 프리랜서 UI/UX 디자이너 겸 퍼블리셔 이현정**입니다.  
+> 본 프로젝트는 심미적인 디자인과 최신 웹 기술을 결합하여 제작한 개인 포트폴리오 웹사이트입니다.
+
+<br/>
+
+## 📌 Project Overview
+이 포트폴리오는 단순한 작업물의 나열이 아닌, **디자이너로서의 감각**과 **프론트엔드 개발자로서의 기술력**을 동시에 보여주기 위해 제작되었습니다.
+
+* **기획 및 디자인**: Figma를 활용한 UI/UX 설계 및 프로토타이핑
+* **개발**: React 18 & TypeScript 기반의 컴포넌트 주도 개발 (CDD)
+* **주요 특징**: Framer Motion을 활용한 인터랙티브 모션, Tailwind CSS를 통한 디자인 시스템 구축
+
+<br/>
+
+## 🛠 Tech Stack & Tools
+최적의 사용자 경험(UX)과 개발 효율성을 위해 모던 웹 기술 스택을 선정했습니다.
+
+| Category | Technology | Description |
+| :--- | :--- | :--- |
+| **Frontend** | <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> | 컴포넌트 재사용성 및 타입 안정성 확보 |
+| **Styling** | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> | Utility-First 방식의 디자인 시스템 적용 |
+| **Animation** | <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/> | 자연스러운 스크롤 및 제스처 애니메이션 구현 |
+| **Build** | <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> | HMR을 통한 빠른 개발 환경 구축 |
+| **Routing** | <img src="https://img.shields.io/badge/Wouter-FF0000?style=flat-square&logo=npm&logoColor=white"/> | 번들 사이즈 최소화를 위한 경량 라우터 사용 |
+| **Backend** | <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> | API 서버 및 데이터 처리 |
+| **Design** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> | UI/UX 디자인 및 프로토타입 |
+
+<br/>
+
+## 📂 Directory Structure
+유지보수성과 확장성을 고려하여 **관심사 분리(Separation of Concerns)** 원칙에 따라 폴더 구조를 설계했습니다.
+
+```bash
 src/
 ├── assets/              # 이미지, 폰트, 아이콘 등 정적 파일 관리
 │   ├── images/          
