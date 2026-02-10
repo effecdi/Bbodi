@@ -59,7 +59,7 @@ src/
 │
 ├── App.tsx              # Wouter 라우팅 설정
 └── main.tsx             # Entry Point
-
+```
 
 ✨ Key Features (핵심 기능)1. Interactive UI/UXScroll Animations: Framer Motion을 활용하여 스크롤 시 요소들이 부드럽게 나타나는 InView 애니메이션을 구현했습니다.Page Transitions: Wouter와 AnimatePresence를 결합하여 페이지 전환 시 끊김 없는 시각적 경험을 제공합니다.2. Design System with TailwindConsistent Design: Figma에서 정의한 Color, Typography, Spacing 시스템을 tailwind.config.js에 테마로 등록하여 일관성 있게 적용했습니다.Responsive Layout: Mobile First 접근 방식을 통해 모바일, 태블릿, 데스크탑 등 모든 기기에서 최적화된 레이아웃을 제공합니다.3. Performance OptimizationLightweight Routing: 무거운 React Router 대신 1KB 미만의 Wouter를 사용하여 번들 크기를 줄이고 로딩 속도를 개선했습니다.Semantic Markup: 시맨틱 태그(section, article 등)를 적극 사용하여 웹 접근성(A11y)과 SEO를 고려했습니다.🎨 Design Guidelines사용자에게 신뢰감을 주는 모던하고 깔끔한 톤앤매너를 유지했습니다.Color PalettePrimarySecondaryBackgroundTextBlue-500Emerald-500WhiteGray-800(위 컬러는 예시이며, 실제 프로젝트의 메인 컬러로 수정하여 사용하세요)TypographyFont Family: Pretendard (가독성과 심미성이 우수한 산세리프 폰트)🚀 Getting Started이 프로젝트를 로컬 환경에서 실행하려면 아래 절차를 따라주세요.Bash# Repository 클론
 git clone [https://github.com/effecdi/Bbodi_Portfolio.git](https://github.com/effecdi/Bbodi_Portfolio.git)
